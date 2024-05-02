@@ -2,7 +2,6 @@
 #include <vector>
 #include <algorithm>
 #include <functional>
-#include <iomanip>
 
 class Article {
 public:
